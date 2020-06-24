@@ -1,0 +1,6 @@
+
+
+   ---- Transcoding 'C:\Users\cedri\Desktop\FEDEVEL Academy\28 Pins\!Released Files\Step 1 - PCB Manufacturing\Gerber Output\28Pins_Project_V1I1_Pcb.GM2' ----   Mon Jun 22 15:15:35 2020
+
+D88   --> D100
+-----------------------------------------------------------------
