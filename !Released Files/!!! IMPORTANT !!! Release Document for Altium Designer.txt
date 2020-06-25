@@ -16,7 +16,7 @@ BC [22-06-2020]
 
 3) Impedance
 I confirm, I have updated and check track width/gap to match required impedance (e.g 55 OHMs): 
-BC [22-06-2020]
+NOT APPLICABLE (two layers, low speed signals)
 
 
 4) Run Tools -> Polygon Pours -> Rebuild All
